@@ -1,1 +1,2 @@
-# easy_cpp_test
+# Easy C++ test
+This is for simple code testing.
